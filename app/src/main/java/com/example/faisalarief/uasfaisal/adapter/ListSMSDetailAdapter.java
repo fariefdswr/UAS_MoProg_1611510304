@@ -1,4 +1,4 @@
-package com.example.enobyte.uasmainurrahman.adapter;
+package com.example.faisalarief.uasfaisal.adapter;
 
 import android.app.Activity;
 import android.support.annotation.NonNull;
@@ -9,8 +9,8 @@ import android.view.View;
 import android.view.ViewGroup;
 import android.widget.TextView;
 
-import com.example.enobyte.uasmainurrahman.R;
-import com.example.enobyte.uasmainurrahman.database.Tablesms;
+import com.example.faisalarief.uasfaisal.R;
+import com.example.faisalarief.uasfaisal.database.Tablesms;
 
 import java.util.List;
 

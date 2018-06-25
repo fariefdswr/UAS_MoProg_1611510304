@@ -1,4 +1,4 @@
-package com.example.enobyte.uasmainurrahman;
+package com.example.faisalarief.uasfaisal;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;

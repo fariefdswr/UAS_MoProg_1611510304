@@ -1,8 +1,8 @@
-package com.example.enobyte.uasmainurrahman.database;
+package com.example.faisalarief.uasfaisal.database;
 
 import android.content.Context;
 
-import com.example.enobyte.uasmainurrahman.DatabaseManager;
+import com.example.faisalarief.uasfaisal.DatabaseManager;
 import com.j256.ormlite.dao.Dao;
 import com.j256.ormlite.stmt.QueryBuilder;
 import com.j256.ormlite.stmt.Where;
